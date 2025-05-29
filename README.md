@@ -36,7 +36,7 @@ Saat ini proyek dalam tahap **pengembangan**:
 - [x] Data preprocessing & eksplorasi awal
 - [x] Pengembangan model prediksi stunting & KEK
 - [X] Pengembangan chatbot
-- [ ] Pengembangan antarmuka pengguna berbasis desain Figma
+- [x] Pengembangan antarmuka pengguna berbasis desain Figma
 - [ ] Pengujian dan deployment awal
 
 ---
