@@ -23,10 +23,12 @@
 
 ---
 
+
 ## 🖼️ Desain Antarmuka
 
-- 🔗 **User Interface**: [Lihat di Figma](https://www.figma.com/proto/72u7R2OOXOV7w6fvhhT5k8/Untitled?node-id=22-151&t=maFJoOHKWUok5vOn-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=22%3A151)
-- 🎨 **UI Desain Lengkap**: [Desain Figma](https://www.figma.com/design/72u7R2OOXOV7w6fvhhT5k8/Untitled?node-id=0-1&t=qEHFVb3LquvvmSKU-1)
+- 🎯 [Prototipe Interaktif (Figma)](https://www.figma.com/proto/72u7R2OOXOV7w6fvhhT5k8/Untitled?node-id=22-151)
+- 🎨 [Desain Lengkap (Figma)](https://www.figma.com/design/72u7R2OOXOV7w6fvhhT5k8/Untitled?node-id=0-1)
+
 
 ---
 
@@ -41,10 +43,18 @@ Saat ini proyek dalam tahap **pengembangan**:
 
 ---
 
-## 👥 Tim Pengembang
+## 🌐 Coba Demo
+Coming soon... (dalam proses deployment)
 
-1. Bagas Aqmal Febrianto
-2. Dary Ramadhan Abdussalam 
-3. Fitria Anggraini 
-4. Putri Mentari 
+---
+
+## 👥 Capstone Team 
+
+| ID Cohort           | Name                      | LinkedIn |
+|---------------|---------------------------|----------|
+| A314YBM090    | Bagas Aqmal Febrianto     | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bagasaqmalfebrianto/) |
+| A012YBF114    | Dary Ramadhan Abdussalam  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daryraa/) |
+| A276XBF177    | Fitria Anggraini          | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fitria-anggraini/) |
+| A011XBM399    | Putri Mentari             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/putripm/) |
+
 
