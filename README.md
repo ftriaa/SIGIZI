@@ -50,11 +50,14 @@ Coming soon... (dalam proses deployment)
 
 ## 👥 Capstone Team 
 
-| ID Cohort           | Name                      | LinkedIn |
+
+| ID Cohort     | Name                      | LinkedIn |
 |---------------|---------------------------|----------|
-| A314YBM090    | Bagas Aqmal Febrianto     | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/bagasaqmalfebrianto/) |
-| A012YBF114    | Dary Ramadhan Abdussalam  | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daryraa/) |
-| A276XBF177    | Fitria Anggraini          | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fitria-anggraini/) |
-| A011XBM399    | Putri Mentari             | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/putripm/) |
+| A314YBM090    | Bagas Aqmal Febrianto     | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/bagasaqmalfebrianto/) |
+| A012YBF114    | Dary Ramadhan Abdussalam  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/daryraa/) |
+| A276XBF177    | Fitria Anggraini          | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/fitria-anggraini/) |
+| A011XBM399    | Putri Mentari             | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/putripm/) |
+
+
 
 
