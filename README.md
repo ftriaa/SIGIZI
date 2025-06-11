@@ -39,11 +39,11 @@ Saat ini proyek dalam tahap **pengembangan**:
 - [x] Pengembangan model prediksi stunting & KEK
 - [X] Pengembangan chatbot
 - [x] Pengembangan antarmuka pengguna berbasis desain Figma
-- [ ] Pengujian dan deployment awal
+- [x] Pengujian dan deployment
 
 ---
 
-## 🌐 Coba Demo
+## 🌐 All Document
 Coming soon... (dalam proses deployment)
 
 ---
