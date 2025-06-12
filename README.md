@@ -40,6 +40,12 @@ Saat ini proyek dalam tahap **pengembangan**:
 - [X] Pengembangan chatbot
 - [x] Pengembangan antarmuka pengguna berbasis desain Figma
 - [x] Pengujian dan deployment
+      
+---
+
+## 🤖 Tech
+Coming soon... (dalam proses deployment)
+
 
 ---
 
