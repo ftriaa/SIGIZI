@@ -34,12 +34,11 @@
 
 ## 🚀 Status Proyek
 
-Saat ini proyek dalam tahap **pengembangan**:
-- [x] Data preprocessing & eksplorasi awal
-- [x] Pengembangan model prediksi stunting & KEK
-- [X] Pengembangan chatbot
-- [x] Pengembangan antarmuka pengguna berbasis desain Figma
-- [x] Pengujian dan deployment
+- [x] Data preprocessing & eksplorasi
+- [x] Model prediksi KEK & stunting
+- [x] Pengembangan chatbot
+- [x] UI berbasis Figma
+- [x] Pengujian & Deployment
       
 ---
 
@@ -62,16 +61,18 @@ Saat ini proyek dalam tahap **pengembangan**:
 
 ## 🌐 All Document
 
-| Nama           | Link Logo                                                             |
+| Nama           | Tautan                                                             |
 |----------------|----------------------------------------------------------------------|
-| Project Plan   | [Link](https://drive.google.com/file/d/1toD_Fkf8AWEVyJ5nkEYDbweXuNpAXliD/view?usp=sharing) |
-| Project Brief  | [Link](https://drive.google.com/file/d/1QTAIBSH9FseBwabhlZYGIe-8kqBeEew9/view?usp=sharing) |
+| Project Plan   | [![Project Plan](https://img.shields.io/badge/📄%20Project%20Plan-Lihat-blue)](https://drive.google.com/file/d/1toD_Fkf8AWEVyJ5nkEYDbweXuNpAXliD/view?usp=sharing) |
+| Project Brief  | [![Project Brief](https://img.shields.io/badge/📄%20Project%20Brief-Lihat-blue)](https://drive.google.com/file/d/1QTAIBSH9FseBwabhlZYGIe-8kqBeEew9/view?usp=sharing) |
+
+
 
 
 
 ---
 
-## 👥 Capstone Team 
+## 👥 Capstone Team LAI25-SM030
 
 
 | ID Cohort     | Name                      | LinkedIn |
@@ -80,7 +81,6 @@ Saat ini proyek dalam tahap **pengembangan**:
 | A012YBF114    | Dary Ramadhan Abdussalam  | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/daryraa/) |
 | A276XBF177    | Fitria Anggraini          | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/fitria-anggraini/) |
 | A011XBM399    | Putri Mentari             | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24"/>](https://www.linkedin.com/in/putripm/) |
-
 
 
 
