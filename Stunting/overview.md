@@ -9,7 +9,9 @@ Fitur-fitur yang digunakan dalam data ini diperoleh dari:
 - Buku 4 (Seksi CH - Catatan kehamilan)
 - Buku 5 (Seksi FMA - Frekuensi makan anak)
 
-Dataset stunting ini memiliki 4526 baris dan 28 kolom.
+Proses pengumpulan dan cleaning data dilakukan menggunakan software STATA dengan mempertimbangkan karakteristik dari data IFLS.
+
+Dataset stunting ini memiliki 4524 baris dan 28 kolom.
 1. sex : jenis kelamin anak (Laki-laki dan perempuan)
 2. age_months : usia anak dalam hitungan bulan (0-59 bulan)
 3. weight : berat badan anak saat ini
