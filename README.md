@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi Proyek
 
-**Sigizi** adalah sebuah sistem informasi gizi yang dikembangkan untuk membantu tenaga kesehatan dan masyarakat dalam mendeteksi risiko **stunting** dan **KEK** sejak dini pada ibu hamil. Sistem ini memanfaatkan model **Machine Learning** untuk memprediksi potensi risiko berdasarkan data input pengguna seperti usia kehamilan, berat badan, tinggi badan, dan lain-lain. Selain itu, Sigizi juga dilengkapi dengan **chatbot berbasis NLP** yang memungkinkan pengguna untuk bertanya seputar topik gizi secara real-time. 
+**SIGIZI** adalah sebuah sistem informasi gizi yang dikembangkan untuk membantu tenaga kesehatan dan masyarakat dalam mendeteksi risiko **stunting** dan **KEK** sejak dini pada ibu hamil. Sistem ini memanfaatkan model **Machine Learning** untuk memprediksi potensi risiko berdasarkan data input pengguna seperti usia kehamilan, berat badan, tinggi badan, dan lain-lain. Selain itu, SIGIZI juga dilengkapi dengan **chatbot berbasis NLP** yang memungkinkan pengguna untuk bertanya seputar topik gizi secara real-time. 
 
 ---
 
@@ -43,7 +43,7 @@ Saat ini proyek dalam tahap **pengembangan**:
       
 ---
 
-## 🤖 Tech
+## 🤖 Tech/Tools
 
 **Teknologi yang digunakan:**
 
