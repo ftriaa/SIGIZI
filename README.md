@@ -44,13 +44,30 @@ Saat ini proyek dalam tahap **pengembangan**:
 ---
 
 ## 🤖 Tech
-Coming soon... (dalam proses deployment)
+
+**Teknologi yang digunakan:**
+
+
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,python,figma,dart,vscode,netlify,fastapi&perline=4)](https://skillicons.dev)
+
+<p align="left">  
+<a href="#"><img alt="Python" title="Python" width="40px" src="https://www.stata.com/includes/images/stata-logo-blue.svg" /></a>  
+<a href="#"><img alt="Python" title="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Open_Neural_Network_Exchange_logo.svg/2560px-Open_Neural_Network_Exchange_logo.svg.png" /></a>  
+
+</p>
+
 
 
 ---
 
 ## 🌐 All Document
-Coming soon... (dalam proses deployment)
+
+| Nama           | Link Logo                                                             |
+|----------------|----------------------------------------------------------------------|
+| Project Plan   | [Link](https://drive.google.com/file/d/1toD_Fkf8AWEVyJ5nkEYDbweXuNpAXliD/view?usp=sharing) |
+| Project Brief  | [Link](https://drive.google.com/file/d/1QTAIBSH9FseBwabhlZYGIe-8kqBeEew9/view?usp=sharing) |
+
+
 
 ---
 
